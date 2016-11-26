@@ -31,3 +31,8 @@ sysinfo.txt
 *.unitypackage
 RPG/Library/assetDatabase3
 *.dwlt
+RPG/Library/assetDatabase3
+*.dwlt
+RPG/Library/CurrentLayout.dwlt
+RPG/Library/metadata/00/00000000000000004000000000000000
+RPG/Library/metadata/00/00000000000000006100000000000000
